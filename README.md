@@ -73,3 +73,8 @@ go to cheap restaurants more than 4 times a month and income is less than 50K, i
 7. Highest number of people accepted coupons when destination within 5 mins away and they were going to Non-urgent place (about 0.27 acceptance rate)
 
 8.  Amongst people who accepted Bar & Coffee House coupons, more coupons were offered when direction of destination was on opposite side. However, when the destination was within 15 mins, people are highly probable to accept coupons and detour to redeem coupons.
+
+
+**Next Steps and Recommendations**
+1. There are  comparable number of people who were going to non-urgent place and were within 5 mins of destination but have not accepted the coupons. It would be great to get more details or use demographic data to explore that further.
+2. We arrived at multiple conditions of variables describing coupon acceptance rate. However, in order to get a list of various conditions along with importance metric, we can run a supervised machine learning algorithm to determine which variable has highest importance in predicting the acceptance flag (Y)
